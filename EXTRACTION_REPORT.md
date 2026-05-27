@@ -26,4 +26,3 @@
 ## Provenance
 All files are from Terry A. Davis's TempleOS V5.03 (public domain).
 Repository: https://github.com/cia-foundation/TempleOS
-No files are derived from the `conscious` project — this is pure upstream TempleOS source.
