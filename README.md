@@ -1,3 +1,5 @@
+<img width="650" height="490" alt="image" src="https://github.com/user-attachments/assets/6a669f0f-d775-4c0b-bd9f-e69c56e66855" />
+
 # TempleOS Spare Parts — Extraction Report
 
 **Source**: `cia-foundation/TempleOS` repository, branch `archive`
